@@ -1,0 +1,5 @@
+D:\Timer\Timer\bin\Debug\Timer.dll
+D:\Timer\Timer\bin\Debug\Timer.pdb
+D:\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+D:\Timer\Timer\obj\Debug\Timer.dll
+D:\Timer\Timer\obj\Debug\Timer.pdb
